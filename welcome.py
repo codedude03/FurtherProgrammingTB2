@@ -1,2 +1,3 @@
 #! /usr/bin/python3
-print("this is fine")
+print("this is acceptable")
+print("this is also fine")
